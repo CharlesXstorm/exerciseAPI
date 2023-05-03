@@ -8,7 +8,7 @@ Get List of bodyParts: https://exerciseapi-production.up.railway.app/exercise/bo
 Get Exercise by ID: https://exerciseapi-production.up.railway.app/exercise/:id
 
 Get Exercise by targetMuscle: https://exerciseapi-production.up.railway.app/exercise/target/:target
-example: https://exerciseapi-production.up.railway.app/exercise/target/abs
+[ example: https://exerciseapi-production.up.railway.app/exercise/target/abs ]
 
 Get Exercise by equipment: https://exerciseapi-production.up.railway.app/exercise/equipment/:equipment
-example: https://exerciseapi-production.up.railway.app/exercise/equipment/cable
+[ example: https://exerciseapi-production.up.railway.app/exercise/equipment/cable ]
