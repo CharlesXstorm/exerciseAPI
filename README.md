@@ -8,7 +8,7 @@ Get List of bodyParts: https://xstormexercise.cyclic.app/exercise/bodyparts
 Get Exercise by ID: https://xstormexercise.cyclic.app/exercise/:id
 
 Get Exercise by targetMuscle: https://xstormexercise.cyclic.app/exercise/target/:target
-[ https://xstormexercise.cyclic.app/example: exercise/target/abs ]
+[ example: https://xstormexercise.cyclic.app/exercise/target/abs ]
 
 Get Exercise by equipment: https://xstormexercise.cyclic.app/exercise/equipment/:equipment
-[ https://xstormexercise.cyclic.app/example: exercise/equipment/cable ]
+[ example: https://xstormexercise.cyclic.app/exercise/equipment/cable ]
